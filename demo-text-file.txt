@@ -1,0 +1,1 @@
+Test from git bash, creating a text file
